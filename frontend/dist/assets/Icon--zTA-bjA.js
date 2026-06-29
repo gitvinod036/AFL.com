@@ -1,0 +1,1 @@
+import{A as e,S as t,f as n}from"./index-C990b1Da.js";var r=e();function i({name:e,className:i=`w-5 h-5`}){return(0,r.jsx)(n[e]??t,{className:i,"aria-hidden":!0})}export{i as t};
